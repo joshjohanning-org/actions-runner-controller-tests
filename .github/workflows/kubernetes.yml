@@ -1,5 +1,5 @@
-name: dind
-run-name: dind
+name: kubernetes
+run-name: kubernetes
 
 on:
   push:
